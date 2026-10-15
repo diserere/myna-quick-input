@@ -1,0 +1,11 @@
+{
+  "uuid": "myna-quick-input@quick-draft.local",
+  "name": "Myna Quick Input",
+  "description": "Quick text input window with Myna speech-to-text compatibility",
+  "shell-version": [
+    "45",
+    "46",
+    "47"
+  ],
+  "url": "https://github.com/diserere/myna-quick-input"
+}

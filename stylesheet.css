@@ -1,0 +1,43 @@
+.myna-quick-modal-container {
+    background-color: rgba(0, 0, 0, 0.5);
+}
+
+.myna-quick-modal-bg {
+    width: 10000px;
+    height: 10000px;
+}
+
+.myna-quick-modal-box {
+    background-color: #242424;
+    color: #ffffff;
+    border-radius: 12px;
+    padding: 24px;
+    width: 600px;
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.4);
+    border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.myna-quick-modal-title {
+    font-size: 16px;
+    font-weight: bold;
+    margin-bottom: 16px;
+}
+
+.myna-quick-modal-entry {
+    background-color: #383838;
+    color: #ffffff;
+    border-radius: 8px;
+    padding: 12px;
+    margin-bottom: 16px;
+    font-size: 14px;
+    border: 1px solid #555555;
+}
+
+.myna-quick-modal-entry:focus {
+    border-color: #3584e4;
+}
+
+.myna-quick-modal-buttons {
+    spacing: 12px;
+    x-align: end;
+}
